@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.joseurz.tipi",
+      "sha256_cert_fingerprints": ["15:0D:0D:C4:C0:7E:92:32:BF:B7:6B:10:A3:90:9F:50:FD:17:70:4C:8C:10:C8:B4:99:97:AE:7B:6C:71:7A:9D"]
+    }
+  }
+]
